@@ -1,0 +1,30 @@
+.container21 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image21 {
+  width: 60px;
+  height: 60px;
+  margin-right: 60px;
+  margin-left: 20px;
+}
+
+.container22 {
+  display: flex;
+  justify-content: center;
+  background-color: #ecfccb;
+  align-items: center;
+  padding: 15px;
+  padding-left: 10px;
+  padding-right: 40px;
+  border-radius: 20px;
+}
+
+.income {
+  background-color: #cffafe;
+}
+
+.expenses {
+  background-color: #cbd5e1;
+}

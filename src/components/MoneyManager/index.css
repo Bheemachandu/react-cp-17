@@ -1,0 +1,77 @@
+.container1 {
+  background-color: #ffffff;
+  padding: 120px;
+  width: 100vw;
+}
+
+.container2 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.container3 {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container4 {
+  border-radius: 10px;
+  border-style: solid;
+  padding: 60px;
+  border-color: #cbd5e1;
+  border-width: 1px;
+}
+
+.label1 {
+  font-size: 13px;
+}
+
+.inputEl {
+  margin-bottom: 10px;
+}
+
+.selectEl {
+  width: 175px;
+}
+
+.container5 {
+  border-radius: 10px;
+  border-style: solid;
+  padding: 30px;
+  border-color: #cbd5e1;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.container6 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cbd5e1;
+  display: flex;
+  align-items: center;
+  height: 48px;
+  justify-content: flex-start;
+  align-self: flex-start;
+  width: 400px;
+}
+
+.para1 {
+  padding-right: 40px;
+  padding-left: 26px;
+}
+
+.listContainer {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 24px;
+  padding-left: 0px;
+  margin: 0px;
+}

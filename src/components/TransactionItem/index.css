@@ -1,0 +1,18 @@
+.listContainer22 {
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d7dfe9;
+  justify-content: space-around;
+}
+
+.image111 {
+  width: 30px;
+  height: 23px;
+}
+
+.button111 {
+  background-color: transparent;
+  border-style: none;
+}
